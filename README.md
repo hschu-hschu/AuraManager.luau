@@ -131,7 +131,3 @@ If the names do not match, the Aura will not equip correctly.
 4. Remove unnecessary attachments and meshes.
 5. Use the command script to disable collision and mass.
 6. Set `AuraName` in `EquipScript` to match your Aura model’s name.
-
----
-
-Do you want me to make this read more like **official documentation** (like a developer wiki style with numbered steps and examples), or keep it more **tutorial-like** for beginners?
