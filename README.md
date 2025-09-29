@@ -1,9 +1,5 @@
 # Aura Creation and Configuration Guide
 
-This guide explains how to create and configure **Auras** for Sol’s RNG–style systems in Roblox Studio. The instructions are structured so that beginners can follow step by step, while advanced developers will still find all the technical details they need.
-
----
-
 ## 1. Organizing Aura Models by Tiers
 
 * Decide on a **name** for your Aura model.
