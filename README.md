@@ -11,8 +11,7 @@
 ```
 ServerStorage
  └── Tiers
-     └── Common
-         └── MyAura
+     └── MyAura
 ```
 
 ---
